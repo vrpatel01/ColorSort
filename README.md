@@ -1,1 +1,4 @@
-# ColorSort
+# Color Sort Solver
+
+## 
+##
